@@ -38,4 +38,8 @@
 - How to get out of a stuck?
 - Detail of the work
 
-
+## Don't forget
+- Destroy componentes in your aws account
+- Implement the nodes ec2 of the free tier  https://aws.amazon.com/es/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
+- eks cost is: $0.1 per hour!! very careful. We only need evidence, once created you can take your capture and turn it off.
+- vpc and route53 (can be kept for evidence of creation.)
