@@ -19,7 +19,7 @@
 
 - Create a new aws account or use an existing one.
 - Deploy the components in the region of your choice. 
-- The challenge is to deploy as many as possible, it could be one but it is as valuable as the 4.
+- The challenge is to deploy as many as possible. (1 is as valuable as 4)
 - Attach in the pr evidence of proof 
   - terragrunt plan or apply
   - pictures about how resources are looked at in aws
