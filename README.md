@@ -28,7 +28,7 @@
 
 ## Extras:
 - If you are not familiar with terragrunt you could create your own terraform resources and consume them. Something like this: https://github.com/ManagedKube/kubernetes-ops/tree/main/terraform-environments/aws/dev
-- Try to deliver something, even if you don't works with properly.
+- Try to deliver something, even if it don't works with properly.
 
 ## What is being evaluated?:
 - Conventions
