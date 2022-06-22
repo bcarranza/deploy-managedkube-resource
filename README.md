@@ -1,0 +1,1 @@
+# deploy-managedkube-resource
