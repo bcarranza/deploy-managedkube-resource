@@ -1,4 +1,4 @@
-# deploy-managedkube-resource
+# Deploy-managedkube-resource
 
 ## Context:
 - Terragrunt keep your terraform code DRY read docs: https://terragrunt.gruntwork.io/
