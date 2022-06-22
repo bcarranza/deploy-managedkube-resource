@@ -1,10 +1,10 @@
 # deploy-managedkube-resource
 
 ## Context:
-Terragrunt keep your terraform code DRY read docs: https://terragrunt.gruntwork.io/
-Managed kube is an stack like our customer: https://github.com/ManagedKube; has aws modules just for consume and create resources here: https://github.com/ManagedKube/kubernetes-ops/tree/main/terraform-modules/aws
+- Terragrunt keep your terraform code DRY read docs: https://terragrunt.gruntwork.io/
+- Managed kube is an stack like our customer: https://github.com/ManagedKube; has aws modules just for consume and create resources here: https://github.com/ManagedKube/kubernetes-ops/tree/main/terraform-modules/aws
 
-A generic environment could be the following components https://github.com/ManagedKube/kubernetes-ops/tree/main/terraform-environments/aws/terragrunt-dev/us-east-1/terragrunt-dev. (That is to say that this is the way in which the modules are consumed.)
+- A generic environment could be the following components https://github.com/ManagedKube/kubernetes-ops/tree/main/terraform-environments/aws/terragrunt-dev/us-east-1/terragrunt-dev. (That is to say that this is the way in which the modules are consumed.)
 
 
 
